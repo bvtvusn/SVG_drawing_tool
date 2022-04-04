@@ -1,0 +1,20 @@
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\bin\Debug\Drawing_program_inkscape_2.exe.config
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\bin\Debug\Drawing_program_inkscape_2.exe
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\bin\Debug\Drawing_program_inkscape_2.pdb
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.csprojAssemblyReference.cache
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.Form1.resources
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.Properties.Resources.resources
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.csproj.GenerateResource.cache
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.csproj.CoreCompileInputs.cache
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.exe
+C:\Users\bvtv\Dropbox\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.pdb
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\bin\Debug\Drawing_program_inkscape_2.exe.config
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\bin\Debug\Drawing_program_inkscape_2.exe
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\bin\Debug\Drawing_program_inkscape_2.pdb
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.csprojAssemblyReference.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.Form1.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.Properties.Resources.resources
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.csproj.GenerateResource.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.csproj.CoreCompileInputs.cache
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.exe
+C:\Users\bvtv\Google Drive\Hobbyprosjekter\C# Prosjekter\Drawing_program_inkscape_2\Drawing_program_inkscape_2\obj\Debug\Drawing_program_inkscape_2.pdb
